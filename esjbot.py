@@ -20,7 +20,7 @@ cur = conn.cursor()
 
 # startup variables
 prefix = '!'
-token = 'NDA5NDAwMjQ5ODk1ODc4NjU5.DhsAPg.z05W0kIQtgqusar3WKhxGaigfzA'
+token = 'token'
 
 # startup time
 startup = time.time()
